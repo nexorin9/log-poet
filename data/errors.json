@@ -1,0 +1,103 @@
+{
+  "errors": [
+    {
+      "code": "FILENOTFOUND",
+      "message": "File not found",
+      "category": "Error",
+      "class_name": "FileNotFoundError",
+      "module": "builtins"
+    },
+    {
+      "code": "PERMISSIONDENIED",
+      "message": "Permission denied",
+      "category": "Error",
+      "class_name": "PermissionError",
+      "module": "builtins"
+    },
+    {
+      "code": "VALUEERROR",
+      "message": "Invalid value",
+      "category": "Error",
+      "class_name": "ValueError",
+      "module": "builtins"
+    },
+    {
+      "code": "TYPEERROR",
+      "message": "Incompatible type",
+      "category": "Error",
+      "class_name": "TypeError",
+      "module": "builtins"
+    },
+    {
+      "code": "KEYERROR",
+      "message": "Key not found",
+      "category": "Error",
+      "class_name": "KeyError",
+      "module": "builtins"
+    },
+    {
+      "code": "RUNTIMEERROR",
+      "message": "Runtime error occurred",
+      "category": "Runtime",
+      "class_name": "RuntimeError",
+      "module": "builtins"
+    },
+    {
+      "code": "IMPORTERROR",
+      "message": "Module not found",
+      "category": "Error",
+      "class_name": "ImportError",
+      "module": "builtins"
+    },
+    {
+      "code": "INDEXERROR",
+      "message": "Index out of range",
+      "category": "Error",
+      "class_name": "IndexError",
+      "module": "builtins"
+    },
+    {
+      "code": "SYNTAXERROR",
+      "message": "Syntax error",
+      "category": "Error",
+      "class_name": "SyntaxError",
+      "module": "builtins"
+    },
+    {
+      "code": "LOOKUPERROR",
+      "message": "Lookup error",
+      "category": "Error",
+      "class_name": "LookupError",
+      "module": "builtins"
+    },
+    {
+      "code": "MEMORYERROR",
+      "message": "Memory error",
+      "category": "Error",
+      "class_name": "MemoryError",
+      "module": "builtins"
+    },
+    {
+      "code": "ZERODIVISIONERROR",
+      "message": "Division by zero",
+      "category": "Error",
+      "class_name": "ZeroDivisionError",
+      "module": "builtins"
+    },
+    {
+      "code": "OVERFLOWERROR",
+      "message": "Numerical operation overflow",
+      "category": "Error",
+      "class_name": "OverflowError",
+      "module": "builtins"
+    },
+    {
+      "code": "NOTIMPLEMENTEDERROR",
+      "message": "Operation not implemented",
+      "category": "Runtime",
+      "class_name": "NotImplementedError",
+      "module": "builtins"
+    }
+  ],
+  "collected_at": "2026-03-07"
+}

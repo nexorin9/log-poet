@@ -1,0 +1,89 @@
+{
+  "poems": [
+    {
+      "error": "File not found",
+      "poem": "File not found\n\nFile Not Found, where echoes fall.\nFile Not Found, where echoes fall.\nFile Not Found, where echoes fall.\nFile Not Found, where echoes fall.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Permission denied",
+      "poem": "Permission denied\n\nIn permission denied, the shadows sleep.\nIn permission denied, the shadows sleep.\nIn permission denied, the shadows sleep.\nIn permission denied, the shadows sleep.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Invalid value",
+      "poem": "Invalid value\n\nIn invalid value, the shadows sleep.\nIn invalid value, the shadows sleep.\nIn invalid value, the shadows sleep.\nIn invalid value, the shadows sleep.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Incompatible type",
+      "poem": "Incompatible type\n\nIn incompatible type, the shadows sleep.\nIn incompatible type, the shadows sleep.\nIn incompatible type, the shadows sleep.\nIn incompatible type, the shadows sleep.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Key not found",
+      "poem": "Key not found\n\nKey Not Found, where echoes fall.\nKey Not Found, where echoes fall.\nKey Not Found, where echoes fall.\nKey Not Found, where echoes fall.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Runtime error occurred",
+      "poem": "Runtime error occurred\n\nRuntime Error Occurred, where echoes fall.\nRuntime Error Occurred, where echoes fall.\nRuntime Error Occurred, where echoes fall.\nRuntime Error Occurred, where echoes fall.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Module not found",
+      "poem": "Module not found\n\nModule Not Found, where echoes fall.\nModule Not Found, where echoes fall.\nModule Not Found, where echoes fall.\nModule Not Found, where echoes fall.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Index out of range",
+      "poem": "Index out of range\n\nIndex Out Of, where echoes fall.\nIndex Out Of, where echoes fall.\nIndex Out Of, where echoes fall.\nIndex Out Of, where echoes fall.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Syntax error",
+      "poem": "Syntax error\n\nIn syntax error, the shadows sleep.\nIn syntax error, the shadows sleep.\nIn syntax error, the shadows sleep.\nIn syntax error, the shadows sleep.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Lookup error",
+      "poem": "Lookup error\n\nIn lookup error, the shadows sleep.\nIn lookup error, the shadows sleep.\nIn lookup error, the shadows sleep.\nIn lookup error, the shadows sleep.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Memory error",
+      "poem": "Memory error\n\nIn memory error, the shadows sleep.\nIn memory error, the shadows sleep.\nIn memory error, the shadows sleep.\nIn memory error, the shadows sleep.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Division by zero",
+      "poem": "Division by zero\n\nDivision By Zero, where echoes fall.\nDivision By Zero, where echoes fall.\nDivision By Zero, where echoes fall.\nDivision By Zero, where echoes fall.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Numerical operation overflow",
+      "poem": "Numerical operation overflow\n\nNumerical Operation Overflow, where echoes fall.\nNumerical Operation Overflow, where echoes fall.\nNumerical Operation Overflow, where echoes fall.\nNumerical Operation Overflow, where echoes fall.",
+      "style": "aabb",
+      "template": null
+    },
+    {
+      "error": "Operation not implemented",
+      "poem": "Operation not implemented\n\nOperation Not Implemented, where echoes fall.\nOperation Not Implemented, where echoes fall.\nOperation Not Implemented, where echoes fall.\nOperation Not Implemented, where echoes fall.",
+      "style": "aabb",
+      "template": null
+    }
+  ],
+  "generated_at": "C:\\Users\\intel\\Desktop\\Auto\\XUNHUAN\\projects\\round_001_20260307_010958\\log-poet"
+}

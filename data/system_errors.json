@@ -1,0 +1,55 @@
+{
+  "errors": [
+    {
+      "code": "EACCES",
+      "message": "Permission denied",
+      "category": "System"
+    },
+    {
+      "code": "ENOENT",
+      "message": "No such file or directory",
+      "category": "System"
+    },
+    {
+      "code": "EEXIST",
+      "message": "File exists",
+      "category": "System"
+    },
+    {
+      "code": "EINVAL",
+      "message": "Invalid argument",
+      "category": "System"
+    },
+    {
+      "code": "ENOSPC",
+      "message": "No space left on device",
+      "category": "System"
+    },
+    {
+      "code": "ETIMEDOUT",
+      "message": "Connection timed out",
+      "category": "Network"
+    },
+    {
+      "code": "ECONNREFUSED",
+      "message": "Connection refused",
+      "category": "Network"
+    },
+    {
+      "code": "ECONNRESET",
+      "message": "Connection reset by peer",
+      "category": "Network"
+    },
+    {
+      "code": "EPIPE",
+      "message": "Broken pipe",
+      "category": "Network"
+    },
+    {
+      "code": "EAGAIN",
+      "message": "Resource temporarily unavailable",
+      "category": "System"
+    }
+  ],
+  "collected_at": "2026-03-07"
+}
